@@ -1,1 +1,1 @@
-# LuckyblockBattlegroundsHub
+# ❓ LUCKY BLOCKS Battlegrounds - Hub
