@@ -7,5 +7,5 @@
 #### Script
 
 ```lua
-loadstring(game:HttpGet("https://github.com/icorposcopy/LuckyblockBattlegroundsHub/blob/source/source", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/icorposcopy/LuckyblockBattlegroundsHub/refs/heads/source/source", true))()
 ```
