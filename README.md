@@ -7,5 +7,5 @@
 #### Script
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Turtle-Brand/Turtle-Spy/main/source.lua", true))()
+loadstring(game:HttpGet("https://github.com/icorposcopy/LuckyblockBattlegroundsHub/blob/source/source", true))()
 ```
